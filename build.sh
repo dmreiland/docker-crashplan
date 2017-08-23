@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker build -t jrcs/crashplan:dev . && \
-docker push jrcs/crashplan:dev
+docker build -t dmreiland/crashplan-pro:develop . && \
+docker push dmreiland/crashplan-pro:develop
